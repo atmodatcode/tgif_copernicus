@@ -142,3 +142,5 @@ ROOK: **R**emote **O**perations **O**n **K**limadaten
 Open the notebook [notebooks/rooki.ipynb](https://nbviewer.org/github/atmodatcode/tgif_copernicus/blob/main/notebooks/rooki.ipynb).
 
 Run the notebook.
+
+That's it!
