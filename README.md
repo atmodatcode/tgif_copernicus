@@ -143,4 +143,3 @@ Open the notebook [notebooks/rooki.ipynb](https://nbviewer.org/github/atmodatcod
 
 Run the notebook.
 
-That's it!
